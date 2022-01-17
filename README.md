@@ -30,6 +30,9 @@ Space-time video super-resolution (STVSR) aims to increase the spatial and tempo
   <img src="./images/cfi.png" width="800">
 </p>
 
+# Acknowledgment
+Our code is built on [Zooming-Slow-Mo-CVPR-2020](https://github.com/Mukosame/Zooming-Slow-Mo-CVPR-2020) and [EDVR](https://github.com/xinntao/EDVR). We thank the authors for sharing their codes. Our project is sponsored by CAAI-Huawei MindSpore Open Fund.
+
 # Installation 
 ## Install the Requirement packages
 - Python 3.6
@@ -147,9 +150,6 @@ If you find the code helpful in your research or work, please cite our paper.
   year = {2021}
 }
 ```
-
-# Acknowledgment
-Our code is built on [Zooming-Slow-Mo-CVPR-2020](https://github.com/Mukosame/Zooming-Slow-Mo-CVPR-2020) and [EDVR](https://github.com/xinntao/EDVR). We thank the authors for sharing their codes. Our project is sponsored by CAAI-Huawei MindSpore Open Fund.
 
 # Contact
 If you have any questions, feel free to E-mail me with [gangxu@mail.nankai.edu.cn](gangxu@mail.nankai.edu.cn).
